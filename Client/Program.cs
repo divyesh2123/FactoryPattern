@@ -10,6 +10,8 @@ namespace FPClient
         {
             string choice = string.Empty, dbProvider = string.Empty;
             bool done = false;
+
+
             do
             {
                 Console.Clear();
